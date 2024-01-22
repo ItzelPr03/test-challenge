@@ -11,7 +11,7 @@ function fizzBuzz(n){
     }
 }
 
-console.log(fizzBuzz(10))
+// console.log(fizzBuzz(10))
 module.exports= fizzBuzz
 
 

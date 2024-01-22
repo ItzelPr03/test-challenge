@@ -7,6 +7,6 @@ function factorial(number){
     }
     // let res = number===0 || number ===1?
 }
-console.log(factorial(5))
+// console.log(factorial(5))
 
 module.exports = factorial
